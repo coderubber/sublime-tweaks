@@ -1,0 +1,8 @@
+These are some sensible override for default settings of anaconda sublime package.
+Use these settings values in >Preferences >Package settings >Anaconda >Settings - User
+
+Anaconda is a package which makes sublime a nice python IDE
+
+This are the settings I use for my sublime on Linux Mint.
+Some may have to specify the location of your python package.
+Mine is in the default location of /usr/bin/python and so I didn't have to override those.
